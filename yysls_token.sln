@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yysls_token", "yysls_token.csproj", "{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Debug|x64.ActiveCfg = Debug|x64
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Debug|x64.Build.0 = Debug|x64
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Release|x64.ActiveCfg = Release|x64
+		{8A4EC59F-5E36-438A-91C1-F11BFCD4B00A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F65B69AD-6B54-4096-8E97-5304E83227CF}
+	EndGlobalSection
+EndGlobal

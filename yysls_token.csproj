@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Authors>七龙</Authors>
+    <Company>七龙</Company>
+    <AssemblyTitle>燕云Token获取小工具</AssemblyTitle>
+    <Product>燕云Token获取小工具</Product>
+    <Description>燕云十六声 Token 自动捕获小工具：检测微信进程、自动设置系统代理并抓取 s3.game.163.com 请求中的 access_token。</Description>
+    <Copyright>© 2026 七龙</Copyright>
+    <RepositoryUrl>https://destiny.cool</RepositoryUrl>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CaptureProxy" Version="1.2.4" />
+  </ItemGroup>
+
+</Project>
