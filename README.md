@@ -50,5 +50,5 @@
 1. 确保已安装 [.NET 8 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)。
 2. 克隆源代码：
    ```bash
-   git clone https://github.com/您的用户名/yysls-token.git
+   git clone https://github.com/elstp/yysls-token.git
    cd yysls-token
