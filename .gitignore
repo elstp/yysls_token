@@ -1,6 +1,26 @@
 # Prerequisites
 *.d
 
+# Visual Studio 相关
+.vs/
+bin/
+obj/
+
+# 用户配置文件
+*.user
+*.suo
+*.tmp
+*.Backup.*
+
+# 编译输出
+*.exe
+*.dll
+*.pdb
+
+# 其他系统文件
+Thumbs.db
+.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
